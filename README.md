@@ -227,22 +227,17 @@ Rather than treating AI models as isolated components, I'm interested in designi
 
 # 🚀 Featured Project
 
-## 🧠 Multimodel for Contest
+## 🎥 Multimodal AI for Video Retrieval
 
-### Multimodal AI · Vision-Language Models · LLM · NLP · Computer Vision · Intelligent Reasoning
+### Multimodal AI · Video Retrieval · NLP · Computer Vision · Embeddings · Semantic Search
 
-**Multimodel for Contest** is an AI-powered system designed to solve contest-style problems by combining multiple AI capabilities in a unified pipeline.
+**Multimodal AI for Video Retrieval** is an AI-powered system designed to retrieve relevant video content based on natural language queries and visual information.
 
-Instead of relying on a single model or one type of input, the project focuses on combining different modalities and reasoning components such as:
+The project combines **Natural Language Processing, Computer Vision, multimodal embeddings, semantic search, and intelligent retrieval** to connect user queries with semantically relevant video content.
 
-- 📝 Text
-- 🖼️ Images
-- 📊 Visual information
-- 💬 Natural language understanding
-- 🤖 Large Language Models
-- 🧠 Intelligent reasoning
+Instead of relying only on keyword-based search, the system focuses on understanding the semantic meaning of both textual queries and visual information extracted from videos.
 
-The goal is to build a flexible AI system capable of interpreting complex contest problems, extracting relevant information from multiple input types, combining that information, and generating context-aware solutions.
+The goal is to allow users to search for video content using natural language while the system performs semantic matching between the query and indexed video representations.
 
 ---
 
@@ -250,183 +245,212 @@ The goal is to build a flexible AI system capable of interpreting complex contes
 
 The project focuses on:
 
-- Processing both textual and visual inputs
-- Understanding natural language questions
-- Extracting relevant information from images
-- Combining visual understanding with language reasoning
-- Designing modular multimodal AI pipelines
-- Integrating multiple AI models
-- Supporting cross-modal reasoning
-- Improving robustness for complex problem-solving tasks
+- Retrieving videos using natural language queries
+- Understanding semantic relationships between text and video
+- Extracting useful information from video frames
+- Generating text and visual embeddings
+- Building multimodal representations
+- Performing semantic similarity search
+- Ranking videos based on relevance
+- Supporting scalable video search
+- Improving retrieval beyond traditional keyword matching
 
 ---
 
-## 🧩 Supported Inputs
+## 🧩 Input & Retrieval Concept
 
-The system is designed to work with contest problems containing combinations such as:
+A user can provide a natural language query such as:
 
 ```text
-Text Question
-     +
-Natural Language Context
-     +
-Image
-     +
-Diagram
-     +
-Visual Information
-     +
-Reasoning Requirement
+"Find a video where a person is walking on a beach at sunset."
 ```
 
-Instead of processing each component independently, the system combines them into a unified representation of the original problem.
+The system processes the query and compares its semantic representation against indexed video content.
+
+The general process is:
+
+```text
+Natural Language Query
+        +
+Video Dataset
+        +
+Frame Information
+        +
+Visual Embeddings
+        +
+Semantic Similarity
+        =
+Relevant Video Results
+```
 
 ---
 
-## 🏗️ Multimodal Architecture
+## 🏗️ System Architecture
 
 ```mermaid
 flowchart TD
 
-A[User Input] --> B{Input Type}
+A[User Query] --> B[NLP / Text Encoder]
 
-B --> C[Text Input]
-B --> D[Image Input]
-B --> E[Mixed Input]
+C[Video Dataset] --> D[Video Processing]
 
-C --> F[NLP Processing]
+D --> E[Frame Extraction]
 
-D --> G[Vision Processing]
+E --> F[Vision Encoder]
 
-E --> F
-E --> G
+B --> G[Text Embedding]
 
-F --> H[Language Understanding]
+F --> H[Video / Frame Embeddings]
 
-G --> I[Visual Information Extraction]
+G --> I[Vector Search]
+H --> I
 
-H --> J[Multimodal Context Fusion]
-I --> J
+I --> J[Similarity Ranking]
 
-J --> K[Reasoning Layer]
+J --> K[Top Relevant Videos]
 
-K --> L[LLM / Multimodal Model]
-
-L --> M[Answer Generation]
-
-M --> N[Final Output]
+K --> L[User]
 ```
 
 ---
 
 ## 💬 Natural Language Processing
 
-The NLP component processes textual information from contest problems.
+The NLP component is responsible for understanding user search queries.
 
 Its responsibilities include:
 
-- Text preprocessing
-- Question understanding
-- Key information extraction
-- Context analysis
+- Query preprocessing
+- Natural language understanding
 - Semantic interpretation
-- Prompt construction
-- Reasoning preparation
+- Important keyword extraction
+- Context understanding
+- Text embedding generation
 
-The resulting language representation is later combined with visual information for multimodal reasoning.
+Instead of matching exact keywords, the system represents the meaning of the query in an embedding space.
 
 ---
 
-## 👁️ Vision Processing
+## 👁️ Video & Vision Processing
 
-The vision component is responsible for understanding visual inputs.
+The computer vision component processes video content.
 
-Possible tasks include:
+Typical processing stages include:
 
-- Image understanding
-- Object recognition
-- Diagram interpretation
+- Video decoding
+- Frame extraction
+- Keyframe selection
+- Image preprocessing
 - Visual feature extraction
 - Scene understanding
-- Visual question answering
+- Video representation generation
 
-The extracted visual information is converted into structured context that can be used by downstream reasoning components.
+Selected video frames are passed through a vision encoder to obtain semantic visual representations.
 
 ---
 
-## 🔄 Multimodal Fusion
+## 🧠 Multimodal Embeddings
 
-One of the central components of the system is the fusion of information from multiple modalities.
+Both textual and visual information are transformed into vector representations.
 
 ```mermaid
 flowchart LR
 
-A[NLP / Text Information] --> D[Multimodal Fusion]
+A[Text Query] --> C[Text Encoder]
 
-B[Visual Information] --> D
+B[Video Frames] --> D[Vision Encoder]
 
-C[Additional Context] --> D
+C --> E[Text Embedding]
 
-D --> E[Unified Context]
+D --> F[Visual Embedding]
 
-E --> F[Reasoning Engine]
+E --> G[Shared Embedding Space]
 
-F --> G[LLM / Multimodal Model]
+F --> G
 
-G --> H[Final Answer]
+G --> H[Similarity Comparison]
+
+H --> I[Retrieval Results]
 ```
 
-The goal is to create a unified representation that captures both linguistic and visual information.
+The shared embedding space makes it possible to compare textual queries directly against visual video content.
 
 ---
 
-## 🧠 Reasoning Layer
+## 🔎 Semantic Search
 
-After information from different modalities is combined, the reasoning layer processes the unified context.
-
-The reasoning component may perform:
-
-- Problem decomposition
-- Context analysis
-- Step-by-step reasoning
-- Cross-modal reasoning
-- Information synthesis
-- Answer verification
-- Response generation
-
-This allows the system to reason over both language and visual information instead of treating them independently.
-
----
-
-## ⚙️ AI Pipeline
+Instead of performing exact keyword matching, the system retrieves videos based on semantic similarity.
 
 ```text
-User Input
-   │
-   ▼
-Input Handler
-   │
-   ├── NLP Processor
-   │
-   └── Vision Processor
-            │
-            ▼
-    Information Extraction
-            │
-            ▼
-      Context Fusion
-            │
-            ▼
-      Reasoning Engine
-            │
-            ▼
-    Multimodal / LLM Model
-            │
-            ▼
-      Answer Generation
-            │
-            ▼
-         Output
+Query
+  │
+  ▼
+Text Encoder
+  │
+  ▼
+Query Embedding
+  │
+  ▼
+Vector Similarity Search
+  │
+  ├── Video Embedding 1
+  ├── Video Embedding 2
+  ├── Video Embedding 3
+  ├── ...
+  │
+  ▼
+Similarity Scores
+  │
+  ▼
+Ranking
+  │
+  ▼
+Top-K Relevant Videos
+```
+
+This allows the system to retrieve content even when the exact words in the query do not appear in video metadata.
+
+---
+
+## ⚙️ Retrieval Pipeline
+
+```text
+                     ┌────────────────────┐
+                     │     Video Dataset   │
+                     └─────────┬──────────┘
+                               │
+                               ▼
+                       Frame Extraction
+                               │
+                               ▼
+                         Vision Encoder
+                               │
+                               ▼
+                        Video Embeddings
+                               │
+                               ▼
+                       Vector Database
+                               ▲
+                               │
+User Query                     │
+    │                          │
+    ▼                          │
+NLP Processing                 │
+    │                          │
+    ▼                          │
+Text Encoder                   │
+    │                          │
+    ▼                          │
+Query Embedding ───────────────┘
+    │
+    ▼
+Similarity Search
+    │
+    ▼
+Ranking
+    │
+    ▼
+Top Relevant Videos
 ```
 
 ---
@@ -434,34 +458,41 @@ Input Handler
 ## 🧱 Modular Design
 
 ```text
-Multimodel for Contest
+Multimodal Video Retrieval System
 │
-├── Input Handler
+├── Query Processing
+│   ├── NLP Preprocessing
+│   ├── Query Understanding
+│   └── Text Encoder
 │
-├── NLP Processing Module
+├── Video Processing
+│   ├── Video Decoder
+│   ├── Frame Extraction
+│   ├── Keyframe Selection
+│   └── Vision Encoder
 │
-├── Vision Processing Module
+├── Embedding Layer
+│   ├── Text Embeddings
+│   └── Visual Embeddings
 │
-├── Information Extraction
+├── Retrieval Engine
+│   ├── Vector Search
+│   ├── Similarity Calculation
+│   └── Ranking
 │
-├── Context Builder
-│
-├── Multimodal Fusion
-│
-├── Reasoning Engine
-│
-├── Model Orchestrator
-│
-└── Output Generator
+└── Result Generation
+    ├── Top-K Selection
+    └── Video Results
 ```
 
-The modular design makes it easier to:
+This modular design makes it easier to:
 
-- Replace individual models
-- Experiment with different architectures
-- Add new modalities
-- Evaluate individual pipeline stages
-- Improve components independently
+- Replace embedding models
+- Experiment with different vision encoders
+- Improve NLP components independently
+- Change retrieval algorithms
+- Add additional modalities
+- Scale the video index
 
 ---
 
@@ -469,16 +500,17 @@ The modular design makes it easier to:
 
 `Python`
 `Artificial Intelligence`
-`Natural Language Processing`
 `Multimodal AI`
+`Natural Language Processing`
+`Computer Vision`
+`Video Retrieval`
 `Large Language Models`
 `Vision-Language Models`
-`Computer Vision`
-`Machine Learning`
+`Embeddings`
+`Semantic Search`
+`Vector Search`
 `Deep Learning`
-`Prompt Engineering`
-`Intelligent Reasoning`
-`API Integration`
+`Machine Learning`
 
 ---
 
@@ -677,7 +709,8 @@ I'm currently strengthening my knowledge across several areas of Artificial Inte
 - Segmentation
 - Feature Extraction
 - Visual Representation Learning
-- Visual Understanding
+- Video Understanding
+- Visual Search
 
 ---
 
@@ -685,6 +718,8 @@ I'm currently strengthening my knowledge across several areas of Artificial Inte
 
 - Vision-Language Models
 - Image + Text Reasoning
+- Video + Text Retrieval
+- Multimodal Embeddings
 - Multimodal Fusion
 - Cross-Modal Representation
 - Visual Question Answering
@@ -746,6 +781,7 @@ B --> C[Machine Learning]
 C --> D[Deep Learning]
 
 D --> E[Natural Language Processing]
+
 D --> F[Computer Vision]
 
 E --> G[Large Language Models]
@@ -753,22 +789,32 @@ E --> G[Large Language Models]
 F --> H[Vision Models]
 
 G --> I[RAG Systems]
+
 G --> J[AI Agents]
 
-H --> K[Multimodal AI]
+E --> K[Text Embeddings]
 
-K --> L[Vision-Language Models]
+F --> L[Visual Embeddings]
+
+K --> M[Multimodal AI]
+
+L --> M
+
+M --> N[Video Retrieval]
+
+M --> O[Vision-Language Models]
 
 I --> J
-L --> J
 
-J --> M[Multi-Agent Systems]
+O --> J
 
-M --> N[Intelligent AI Systems]
+J --> P[Multi-Agent Systems]
 
-N --> O[Production AI Systems]
+P --> Q[Intelligent AI Systems]
 
-O --> P[AI Engineer]
+Q --> R[Production AI Systems]
+
+R --> S[AI Engineer]
 ```
 
 ---
@@ -786,6 +832,7 @@ I'm interested in discussing and exploring:
 - 🧠 Large Language Models
 - 🤝 AI Agents
 - 🔎 Retrieval-Augmented Generation
+- 🎥 Video Retrieval
 - 🖼️ Multimodal AI
 - 👁️ Computer Vision
 - 📊 Machine Learning
