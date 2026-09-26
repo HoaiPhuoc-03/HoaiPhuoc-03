@@ -24,6 +24,10 @@ Building practical AI systems that combine language, vision, reasoning, retrieva
   <a href="mailto:phuochcmusfit@gmail.com">
     <img src="https://img.shields.io/badge/Email-phuochcmusfit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
+  <a href="https://www.facebook.com/phuoc.nguyenhoai.581/">
+    <img src="https://img.shields.io/badge/Facebook-Hoài_Phước-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -416,7 +420,7 @@ This allows the system to retrieve content even when the exact words in the quer
 
 ```text
                      ┌────────────────────┐
-                     │     Video Dataset   │
+                     │   Video Dataset    │
                      └─────────┬──────────┘
                                │
                                ▼
@@ -852,6 +856,10 @@ I'm interested in discussing and exploring:
 
 <a href="mailto:phuochcmusfit@gmail.com">
 <img src="https://img.shields.io/badge/Email-phuochcmusfit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/phuoc.nguyenhoai.581/">
+<img src="https://img.shields.io/badge/Facebook-Hoài_Phước-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 </p>
