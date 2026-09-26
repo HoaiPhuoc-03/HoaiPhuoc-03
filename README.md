@@ -1,15 +1,15 @@
 <!-- ========================= -->
-<!--         HEADER            -->
+<!--          HEADER           -->
 <!-- ========================= -->
 
 <h1 align="center">Hi 👋, I'm Hoài Phước</h1>
 
 <h3 align="center">
-Artificial Intelligence Student · AI Agents · LLM & RAG Applications
+Artificial Intelligence Student · NLP · AI Agents · Multimodal AI · LLM · Computer Vision
 </h3>
 
 <p align="center">
-Building practical AI systems by combining intelligent models, retrieval systems, agents, and software engineering.
+Building practical AI systems that combine language, vision, reasoning, retrieval, and intelligent agents.
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@ Building practical AI systems by combining intelligent models, retrieval systems
     <img src="https://img.shields.io/badge/GitHub-HoaiPhuoc--03-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/hoài-phước-nguyễn-96583541a">
     <img src="https://img.shields.io/badge/LinkedIn-Hoài_Phước-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:phuochcmusfit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phuochcmusfit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -37,23 +37,24 @@ Building practical AI systems by combining intelligent models, retrieval systems
 I'm **Hoài Phước**, an **Artificial Intelligence student** at the  
 **University of Science, Vietnam National University Ho Chi Minh City (HCMUS)**.
 
-My main interest lies at the intersection of **Artificial Intelligence and Software Engineering**.
+My main interests lie at the intersection of **Artificial Intelligence, Natural Language Processing, Large Language Models, AI Agents, Computer Vision, Multimodal AI, and Software Engineering**.
 
-I enjoy transforming AI concepts into practical applications, especially systems involving **Large Language Models, Retrieval-Augmented Generation, AI Agents, Machine Learning, and intelligent knowledge systems**.
+I enjoy building practical AI systems, especially applications involving:
 
-Rather than working only with standalone AI models, I'm interested in building the complete systems around them:
-
-- 🧠 AI Agents
+- 💬 Natural Language Processing
+- 🧠 Large Language Models
+- 🤖 AI Agents
+- 🖼️ Multimodal AI
+- 👁️ Computer Vision
 - 🔎 Retrieval-Augmented Generation
-- 🗃️ Knowledge Bases
-- 🤖 Large Language Models
-- 🔗 APIs & Backend Services
 - 📊 Machine Learning
 - 🧬 Deep Learning
-- 👁️ Computer Vision
-- ⚙️ AI System Architecture
+- 🧠 Intelligent Reasoning
+- ⚙️ Backend Integration
 
-> **Current Focus:** Building AI systems that can retrieve, reason, use specialized knowledge, and interact with users intelligently.
+Rather than treating AI models as isolated components, I'm interested in designing complete intelligent systems that can understand language, interpret visual information, retrieve knowledge, reason over context, and coordinate multiple AI components.
+
+> **Current Focus:** Building intelligent AI systems that combine NLP, multimodal understanding, LLM reasoning, retrieval, and AI agents.
 
 ---
 
@@ -64,16 +65,20 @@ Rather than working only with standalone AI models, I'm interested in building t
 ## 🧠 Areas of Interest
 
 `Artificial Intelligence`
-`Generative AI`
+`Natural Language Processing`
 `Large Language Models`
-`RAG`
 `AI Agents`
+`Agentic AI`
+`Multimodal AI`
+`Vision-Language Models`
+`Computer Vision`
 `Machine Learning`
 `Deep Learning`
-`Computer Vision`
+`Generative AI`
+`RAG`
 `Knowledge Representation`
+`Intelligent Reasoning`
 `Backend Engineering`
-`Algorithms`
 `Software Engineering`
 
 ---
@@ -120,7 +125,53 @@ Rather than working only with standalone AI models, I'm interested in building t
 
 ---
 
-## 🧠 LLM / RAG / AI Agents
+## 💬 Natural Language Processing
+
+<p>
+
+<img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-4A90E2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Text_Processing-5C6BC0?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+
+<img src="https://img.shields.io/badge/Embeddings-7B1FA2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Semantic_Search-00897B?style=for-the-badge">
+
+</p>
+
+---
+
+## 👁️ Computer Vision / Multimodal AI
+
+<p>
+
+<img src="https://img.shields.io/badge/Computer_Vision-005571?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Multimodal_AI-6A5ACD?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Vision--Language_Models-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Image_Understanding-3A7CA5?style=for-the-badge">
+
+</p>
+
+---
+
+## 🤖 LLM / AI Agents / RAG
+
+<p>
+
+<img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/AI_Agents-008080?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge">
+
+</p>
 
 <p>
 
@@ -128,19 +179,9 @@ Rather than working only with standalone AI models, I'm interested in building t
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6A5ACD?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/AI_Agents-Agentic_AI-008080?style=for-the-badge">
-
-</p>
-
-<p>
-
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
 
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white">
-
-<img src="https://img.shields.io/badge/Vector_Search-4B0082?style=for-the-badge">
 
 </p>
 
@@ -186,175 +227,314 @@ Rather than working only with standalone AI models, I'm interested in building t
 
 # 🚀 Featured Project
 
-## 🏫 HCMUS Smart Campus
+## 🧠 Multimodel for Contest
 
-### Multi-Agent AI · RAG · LLM · Knowledge Base · Intelligent Student Assistant
+### Multimodal AI · Vision-Language Models · LLM · NLP · Computer Vision · Intelligent Reasoning
 
-**HCMUS Smart Campus** is an AI-powered platform designed to provide intelligent assistance for students at the University of Science, VNU-HCM.
+**Multimodel for Contest** is an AI-powered system designed to solve contest-style problems by combining multiple AI capabilities in a unified pipeline.
 
-The system uses a **multi-agent architecture**, where specialized AI agents are responsible for different areas of student life.
+Instead of relying on a single model or one type of input, the project focuses on combining different modalities and reasoning components such as:
 
-Instead of relying on a single general-purpose chatbot, each agent is provided with specialized knowledge and responsibilities.
+- 📝 Text
+- 🖼️ Images
+- 📊 Visual information
+- 💬 Natural language understanding
+- 🤖 Large Language Models
+- 🧠 Intelligent reasoning
 
-### 🎯 Main Goals
-
-The project aims to build an intelligent university assistant capable of:
-
-- Answering university-related questions
-- Supporting academic activities
-- Providing student wellbeing information
-- Retrieving information from specialized knowledge sources
-- Routing questions to the appropriate AI agent
-- Generating context-aware responses
-- Reducing hallucinations through retrieval-based knowledge
-- Providing a scalable architecture for additional agents
+The goal is to build a flexible AI system capable of interpreting complex contest problems, extracting relevant information from multiple input types, combining that information, and generating context-aware solutions.
 
 ---
 
-## 🤖 Multi-Agent System
+## 🎯 Project Goals
 
-The system contains multiple specialized AI agents.
+The project focuses on:
 
-Examples include:
-
-### 📚 Academic Agent
-
-Handles questions related to:
-
-- Courses
-- Learning
-- Academic information
-- Study guidance
-- Academic resources
-
-### ❤️ Student Wellbeing Agent
-
-Provides information related to:
-
-- Student wellbeing
-- Stress management
-- University life
-- Support resources
-- Healthy study habits
-
-### 🏫 Campus Information Agent
-
-Handles information related to:
-
-- University facilities
-- Student services
-- Campus information
-- Procedures
-- Frequently asked university questions
-
-Each agent operates on a specialized knowledge domain, allowing the overall system to produce more relevant and reliable answers.
+- Processing both textual and visual inputs
+- Understanding natural language questions
+- Extracting relevant information from images
+- Combining visual understanding with language reasoning
+- Designing modular multimodal AI pipelines
+- Integrating multiple AI models
+- Supporting cross-modal reasoning
+- Improving robustness for complex problem-solving tasks
 
 ---
 
-## 🔎 RAG Knowledge Architecture
+## 🧩 Supported Inputs
 
-The system uses a **Retrieval-Augmented Generation architecture**.
+The system is designed to work with contest problems containing combinations such as:
 
-Instead of asking the LLM to answer purely from its pretrained knowledge, the system retrieves relevant information from a curated knowledge base.
+```text
+Text Question
+     +
+Natural Language Context
+     +
+Image
+     +
+Diagram
+     +
+Visual Information
+     +
+Reasoning Requirement
+```
 
-The workflow is approximately:
+Instead of processing each component independently, the system combines them into a unified representation of the original problem.
+
+---
+
+## 🏗️ Multimodal Architecture
 
 ```mermaid
 flowchart TD
 
-A[Student Question] --> B[AI Router / Orchestrator]
+A[User Input] --> B{Input Type}
 
-B --> C{Intent Analysis}
+B --> C[Text Input]
+B --> D[Image Input]
+B --> E[Mixed Input]
 
-C --> D[Academic Agent]
-C --> E[Student Wellbeing Agent]
-C --> F[Campus Agent]
-C --> G[Other Specialized Agents]
+C --> F[NLP Processing]
 
-D --> H[Knowledge Retrieval]
-E --> H
-F --> H
-G --> H
+D --> G[Vision Processing]
 
-H --> I[Knowledge Base]
+E --> F
+E --> G
 
-I --> J[Relevant Context]
+F --> H[Language Understanding]
 
-J --> K[Large Language Model]
+G --> I[Visual Information Extraction]
 
-K --> L[Generated Answer]
+H --> J[Multimodal Context Fusion]
+I --> J
 
-L --> M[Student]
+J --> K[Reasoning Layer]
+
+K --> L[LLM / Multimodal Model]
+
+L --> M[Answer Generation]
+
+M --> N[Final Output]
 ```
-
-This architecture allows agents to answer questions using external knowledge instead of relying entirely on the LLM's internal memory.
 
 ---
 
-## 🧠 Agent Knowledge System
+## 💬 Natural Language Processing
 
-Each AI agent can access specialized knowledge sources containing domain-specific information.
+The NLP component processes textual information from contest problems.
+
+Its responsibilities include:
+
+- Text preprocessing
+- Question understanding
+- Key information extraction
+- Context analysis
+- Semantic interpretation
+- Prompt construction
+- Reasoning preparation
+
+The resulting language representation is later combined with visual information for multimodal reasoning.
+
+---
+
+## 👁️ Vision Processing
+
+The vision component is responsible for understanding visual inputs.
+
+Possible tasks include:
+
+- Image understanding
+- Object recognition
+- Diagram interpretation
+- Visual feature extraction
+- Scene understanding
+- Visual question answering
+
+The extracted visual information is converted into structured context that can be used by downstream reasoning components.
+
+---
+
+## 🔄 Multimodal Fusion
+
+One of the central components of the system is the fusion of information from multiple modalities.
 
 ```mermaid
 flowchart LR
 
-A[User] --> B[Agent Router]
+A[NLP / Text Information] --> D[Multimodal Fusion]
 
-B --> C[Agent 1]
-B --> D[Agent 2]
-B --> E[Agent 3]
+B[Visual Information] --> D
 
-C --> F[Agent Knowledge Base]
-D --> G[Agent Knowledge Base]
-E --> H[Agent Knowledge Base]
+C[Additional Context] --> D
 
-F --> I[Retriever]
-G --> I
-H --> I
+D --> E[Unified Context]
 
-I --> J[LLM]
+E --> F[Reasoning Engine]
 
-J --> K[Response]
+F --> G[LLM / Multimodal Model]
+
+G --> H[Final Answer]
 ```
 
-The separation of knowledge between agents allows the system to scale as additional student services are introduced.
+The goal is to create a unified representation that captures both linguistic and visual information.
+
+---
+
+## 🧠 Reasoning Layer
+
+After information from different modalities is combined, the reasoning layer processes the unified context.
+
+The reasoning component may perform:
+
+- Problem decomposition
+- Context analysis
+- Step-by-step reasoning
+- Cross-modal reasoning
+- Information synthesis
+- Answer verification
+- Response generation
+
+This allows the system to reason over both language and visual information instead of treating them independently.
 
 ---
 
 ## ⚙️ AI Pipeline
 
 ```text
-User
- │
- ▼
-Application Interface
- │
- ▼
-AI Orchestrator
- │
- ├── Intent Detection
- │
- ├── Agent Selection
- │
- └── Context Management
- │
- ▼
-Specialized AI Agent
- │
- ▼
-Knowledge Retrieval
- │
- ▼
-Relevant Documents
- │
- ▼
-LLM
- │
- ▼
-Response Generation
- │
- ▼
-User
+User Input
+   │
+   ▼
+Input Handler
+   │
+   ├── NLP Processor
+   │
+   └── Vision Processor
+            │
+            ▼
+    Information Extraction
+            │
+            ▼
+      Context Fusion
+            │
+            ▼
+      Reasoning Engine
+            │
+            ▼
+    Multimodal / LLM Model
+            │
+            ▼
+      Answer Generation
+            │
+            ▼
+         Output
+```
+
+---
+
+## 🧱 Modular Design
+
+```text
+Multimodel for Contest
+│
+├── Input Handler
+│
+├── NLP Processing Module
+│
+├── Vision Processing Module
+│
+├── Information Extraction
+│
+├── Context Builder
+│
+├── Multimodal Fusion
+│
+├── Reasoning Engine
+│
+├── Model Orchestrator
+│
+└── Output Generator
+```
+
+The modular design makes it easier to:
+
+- Replace individual models
+- Experiment with different architectures
+- Add new modalities
+- Evaluate individual pipeline stages
+- Improve components independently
+
+---
+
+## 🔧 Main Technologies
+
+`Python`
+`Artificial Intelligence`
+`Natural Language Processing`
+`Multimodal AI`
+`Large Language Models`
+`Vision-Language Models`
+`Computer Vision`
+`Machine Learning`
+`Deep Learning`
+`Prompt Engineering`
+`Intelligent Reasoning`
+`API Integration`
+
+---
+
+<!-- ========================= -->
+<!--        PROJECT 2          -->
+<!-- ========================= -->
+
+# 🗣️ AI Debate Trainer
+
+### NLP · Large Language Models · AI Agents · Argument Analysis · Interactive Learning
+
+**AI Debate Trainer** is an AI-powered application designed to help users practice debating, argumentation, and critical thinking.
+
+The system allows users to interact with an AI-powered opponent in a structured debate environment.
+
+🔗 **Repository:**  
+[github.com/HoaiPhuoc-03/AI_Debate_Trainer](https://github.com/HoaiPhuoc-03/AI_Debate_Trainer)
+
+---
+
+## 🎯 Main Goals
+
+The project explores how AI can be used to:
+
+- Understand natural language arguments
+- Generate counterarguments
+- Analyze user reasoning
+- Simulate intelligent debate opponents
+- Improve critical thinking
+- Provide interactive debate practice
+- Generate context-aware responses
+
+---
+
+## 🧠 AI Workflow
+
+```mermaid
+flowchart TD
+
+A[User Argument]
+
+A --> B[NLP Processing]
+
+B --> C[Argument Understanding]
+
+C --> D[Context Analysis]
+
+D --> E[LLM / AI Agent]
+
+E --> F[Reasoning]
+
+F --> G[Counterargument Generation]
+
+G --> H[AI Response]
+
+H --> I[User]
 ```
 
 ---
@@ -362,80 +542,12 @@ User
 ## 🔧 Technologies
 
 `Python`
-`LLM`
-`RAG`
+`Artificial Intelligence`
+`Natural Language Processing`
+`Large Language Models`
 `AI Agents`
-`Knowledge Base`
-`Vector Search`
 `Prompt Engineering`
-`FastAPI`
-`Machine Learning`
-`Git`
-`GitHub`
-
----
-
-<!-- ========================= -->
-<!--      PROJECT 2            -->
-<!-- ========================= -->
-
-# 🗣️ AI Debate Trainer
-
-**AI Debate Trainer** is an AI-powered application designed to help users improve their debating and argumentation skills.
-
-The system allows users to interact with an AI opponent and practice constructing arguments in a structured debate environment.
-
-🔗 **Repository:**  
-[github.com/HoaiPhuoc-03/AI_Debate_Trainer](https://github.com/HoaiPhuoc-03/AI_Debate_Trainer)
-
-### 🎯 Project Goals
-
-The project explores how Large Language Models can be used to:
-
-- Generate counterarguments
-- Analyze user arguments
-- Simulate debate opponents
-- Improve critical thinking
-- Provide interactive learning experiences
-- Evaluate argument structure
-
-### 🧠 Technologies
-
-`Python` · `Artificial Intelligence` · `LLM` · `Prompt Engineering`
-
----
-
-<!-- ========================= -->
-<!--       OTHER PROJECTS      -->
-<!-- ========================= -->
-
-# 📚 Other Projects
-
-## 🧠 Artificial Intelligence
-
-A collection of projects and experiments related to Artificial Intelligence.
-
-🔗 [AI Repository](https://github.com/HoaiPhuoc-03/AI)
-
----
-
-## 💻 Data Structures & Algorithms
-
-I continuously practice algorithms and data structures to strengthen my problem-solving and software engineering foundations.
-
-Topics include:
-
-- Arrays
-- Linked Lists
-- Stack & Queue
-- Trees
-- Binary Search Trees
-- Graph Algorithms
-- DFS / BFS
-- Sorting Algorithms
-- Backtracking
-- Dynamic Programming
-- Complexity Analysis
+`Interactive AI`
 
 ---
 
@@ -486,55 +598,114 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=HoaiPhuoc-03
 ---
 
 <!-- ========================= -->
-<!--       CURRENT STUDY       -->
+<!--      CURRENT LEARNING     -->
 <!-- ========================= -->
 
 # 🎯 Currently Learning
 
-I'm currently strengthening my knowledge in:
+I'm currently strengthening my knowledge across several areas of Artificial Intelligence and Computer Science.
 
-### 🧠 Artificial Intelligence
+---
 
-- Artificial Intelligence fundamentals
-- Search algorithms
-- Knowledge representation
-- Intelligent agents
-- Heuristic search
+## 🧠 Artificial Intelligence
 
-### 📊 Machine Learning
+- Intelligent Agents
+- Search Algorithms
+- Heuristic Search
+- Knowledge Representation
+- Reasoning Systems
+- AI Problem Solving
+
+---
+
+## 💬 Natural Language Processing
+
+- Text Preprocessing
+- Tokenization
+- Text Classification
+- Sentiment Analysis
+- Named Entity Recognition
+- Information Extraction
+- Text Embeddings
+- Semantic Similarity
+- Transformer Architectures
+- Natural Language Understanding
+
+---
+
+## 🤖 AI Agents
+
+- Intelligent Agent Architecture
+- Tool-Using Agents
+- Agent Memory
+- Planning and Reasoning
+- Multi-Agent Systems
+- Agent Orchestration
+- Function Calling
+- Context Management
+- Agentic Workflows
+- Retrieval-Enhanced Agents
+
+---
+
+## 📊 Machine Learning
 
 - Supervised Learning
 - Unsupervised Learning
 - Feature Engineering
 - Model Evaluation
+- Model Selection
 - Optimization
 
-### 🧬 Deep Learning
+---
+
+## 🧬 Deep Learning
 
 - Neural Networks
 - Backpropagation
-- CNNs
-- Representation Learning
 - Optimization
+- Representation Learning
+- Convolutional Neural Networks
+- Deep Learning Architectures
 
-### 👁️ Computer Vision
+---
+
+## 👁️ Computer Vision
 
 - Image Classification
 - Object Detection
 - Segmentation
 - Feature Extraction
+- Visual Representation Learning
+- Visual Understanding
 
-### 🤖 Large Language Models
+---
+
+## 🖼️ Multimodal AI
+
+- Vision-Language Models
+- Image + Text Reasoning
+- Multimodal Fusion
+- Cross-Modal Representation
+- Visual Question Answering
+- Multimodal Reasoning
+
+---
+
+## 🧠 Large Language Models
 
 - Prompt Engineering
-- RAG
+- LLM Applications
+- Retrieval-Augmented Generation
 - Embeddings
-- Vector Databases
-- AI Agents
 - Context Management
+- Tool Use
 - LLM Evaluation
+- Reasoning Systems
 
-### 🎮 Reinforcement Learning
+---
+
+## 🎮 Reinforcement Learning
 
 - Agents
 - Environments
@@ -543,79 +714,97 @@ I'm currently strengthening my knowledge in:
 - Value Functions
 - Sequential Decision Making
 
-### 💻 Computer Science
+---
+
+## 💻 Computer Science
 
 - Data Structures
 - Algorithms
 - Object-Oriented Programming
 - Computer Networks
-- Software Engineering
 - Backend Development
+- Software Engineering
+- System Design
 
 ---
 
 <!-- ========================= -->
-<!--        ROADMAP            -->
+<!--          ROADMAP          -->
 <!-- ========================= -->
 
-# 🗺️ My AI Engineering Roadmap
+# 🗺️ AI Engineering Roadmap
 
 ```mermaid
 flowchart LR
 
-A[Programming Foundations] --> B[Data Structures & Algorithms]
+A[Programming Foundations]
+
+A --> B[Data Structures & Algorithms]
 
 B --> C[Machine Learning]
 
 C --> D[Deep Learning]
 
-D --> E[Computer Vision]
+D --> E[Natural Language Processing]
+D --> F[Computer Vision]
 
-D --> F[Large Language Models]
+E --> G[Large Language Models]
 
-F --> G[RAG Systems]
+F --> H[Vision Models]
 
-G --> H[AI Agents]
+G --> I[RAG Systems]
+G --> J[AI Agents]
 
-H --> I[Multi-Agent Systems]
+H --> K[Multimodal AI]
 
-I --> J[Production AI Systems]
+K --> L[Vision-Language Models]
 
-J --> K[AI Engineer]
+I --> J
+L --> J
+
+J --> M[Multi-Agent Systems]
+
+M --> N[Intelligent AI Systems]
+
+N --> O[Production AI Systems]
+
+O --> P[AI Engineer]
 ```
 
 ---
 
 <!-- ========================= -->
-<!--       CONNECT             -->
+<!--          CONNECT          -->
 <!-- ========================= -->
 
 # 🤝 Let's Connect
 
-I'm interested in discussing:
+I'm interested in discussing and exploring:
 
 - 🤖 Artificial Intelligence
+- 💬 Natural Language Processing
 - 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation
 - 🤝 AI Agents
+- 🔎 Retrieval-Augmented Generation
+- 🖼️ Multimodal AI
+- 👁️ Computer Vision
 - 📊 Machine Learning
 - 🧬 Deep Learning
-- 👁️ Computer Vision
 - 💻 Software Engineering
-- 🚀 AI Projects
+- 🚀 Intelligent AI Systems
 
 <p align="center">
 
 <a href="https://github.com/HoaiPhuoc-03">
-<img src="https://img.shields.io/badge/GitHub-HoaiPhuoc--03-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-HoaiPhuoc--03-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/hoài-phước-nguyễn-96583541a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/hoài-phước-nguyễn-96583541a">
+<img src="https://img.shields.io/badge/LinkedIn-Hoài_Phước-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="phuochcmusfit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:phuochcmusfit@gmail.com">
+<img src="https://img.shields.io/badge/Email-phuochcmusfit%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
